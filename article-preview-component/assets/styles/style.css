@@ -1,0 +1,86 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+img {
+  display: block;
+  width: 100%;
+}
+html {
+  font-size: 13px;
+}
+body {
+  background: hsl(210, 46%, 95%);
+  font-family: "Manrope", sans-serif;
+  font-weight: 500;
+}
+.container {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container-card {
+  width: min(90vw, 800px);
+  background: #fff;
+  display: flex;
+  flex-wrap: wrap;
+}
+.image-container {
+  width: 365px;
+}
+.information {
+  flex: 1;
+  padding: 40px;
+}
+.text h1 {
+  color: hsl(217, 19%, 35%);
+  font-size: 18px;
+  letter-spacing: 2px;
+  line-height: 25px;
+  margin-bottom: 20px;
+}
+.text p {
+  color: hsl(214, 17%, 51%);
+  margin-bottom: 20px;
+}
+.profile {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.icons {
+  width: 40px;
+}
+.image-profile {
+  display: flex;
+}
+.image-profile img {
+  width: 40px;
+  border-radius: 50%;
+  margin-right: 20px;
+}
+.profile-info h2 {
+  color: hsl(217, 19%, 35%);
+  font-size: 15px;
+}
+.profile-info p {
+  color: hsl(214, 17%, 51%);
+}
+.social-button {
+  width: 30px;
+  height: 30px;
+  background: hsl(210, 46%, 95%);
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.social-button a img {
+  width: 15px;
+}
+.social-midia {
+  display: none;
+}
