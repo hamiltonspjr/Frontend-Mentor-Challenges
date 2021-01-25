@@ -79,6 +79,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  cursor: pointer;
 }
 .social-button a img {
   width: 15px;
@@ -95,6 +96,12 @@ body {
   top: 50%;
   right: -55px;
   z-index: 100;
+  opacity: 0;
+  visibility: hidden;
+}
+.social-midia.active {
+  opacity: 1;
+  visibility: visible;
 }
 .social-midia::after {
   content: "";
@@ -142,7 +149,6 @@ body {
     position: relative;
   }
   .social-midia {
-    display: flex;
     width: 85%;
     top: 0;
     left: 0;

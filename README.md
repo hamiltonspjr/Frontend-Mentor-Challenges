@@ -11,6 +11,12 @@
 <p>Nesse desafio, o javascript foi responsável por mostrar a resposta quando o usuário clicasse na pergunta.</p>
 
 <hr>
+<h2> Segundo Desafio </h2>
+<img src="./github/article.gif" alt="demonstração da página web">
+
+<p>Nesse desafio, o javascript foi responsável por mostrar os icones das redes sociais ao clicar no botão</p>
+
+<hr>
 
 <h2> Autor </h2>
 <p> Hamilton de Souza </p>
