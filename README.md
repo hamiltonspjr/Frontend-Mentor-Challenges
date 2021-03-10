@@ -18,6 +18,13 @@
 
 <hr>
 
+<h2> Terceiro Desafio </h2>
+<img src="./github/form-validator.gif" alt="demonstração da página web">
+
+<p>Nesse desafio, o objetivo era criar um formulário de cadastro com uma validação.</p>
+<p>A validação foi feita através do javascript utilizando class e regex para verificar se os campos de cpf e e-mail estavam com valores válidos.</p>
+
+<hr>
 <h2> Autor </h2>
 <p> Hamilton de Souza </p>
 <a href="https://www.linkedin.com/in/hamilton-junior-34451018a/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin"></a>
