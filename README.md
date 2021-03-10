@@ -25,6 +25,11 @@
 <p>A validação foi feita através do javascript utilizando class e regex para verificar se os campos de cpf e e-mail estavam com valores válidos.</p>
 
 <hr>
+<h2> Como Utilizar </h2>
+
+<p> Caso tenha o git baixado no seu computador, só precisa clonar esse repositório, se não tiver é necessário que o repositório seja baixado.</p>
+<p> Utilizando o vs code, você pode acessar qualquer um desses desafios através da extensão: live server. </p>
+
 <h2> Autor </h2>
 <p> Hamilton de Souza </p>
 <a href="https://www.linkedin.com/in/hamilton-junior-34451018a/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin"></a>
