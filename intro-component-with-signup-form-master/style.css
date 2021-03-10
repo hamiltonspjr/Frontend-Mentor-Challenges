@@ -116,11 +116,17 @@ body {
   font-weight: 400;
   text-align: center;
 }
+.content-form p.error {
+  color: var(--red);
+  font-weight: 600;
+  font-size: 0.75rem;
+  margin: 3px 0 10px 0;
+  text-align: start;
+}
 .content-form form p strong {
   color: var(--red);
   font-weight: 700;
 }
-
 @media (max-width: 768px) {
   html {
     font-size: 14px;
