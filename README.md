@@ -25,6 +25,15 @@
 <p>A validação foi feita através do javascript utilizando class e regex para verificar se os campos de cpf e e-mail estavam com valores válidos.</p>
 
 <hr>
+
+<h2> Quarto Desafio </h2>
+<img src="./github/dashboard.gif" alt="demonstração da página web">
+
+<p>Nesse desafio, o objetivo era a criação de um dashboard de media social com tema dark e light.</p>
+<p> Para a criação do layout foi utilizando sass, flexbox e css grid.</p>
+<p>O javascript foi responsável por fazer a troca de tema</p>
+
+<hr>
 <h2> Como Utilizar </h2>
 
 <p> Caso tenha o git baixado no seu computador, só precisa clonar esse repositório, se não tiver é necessário que o repositório seja baixado.</p>

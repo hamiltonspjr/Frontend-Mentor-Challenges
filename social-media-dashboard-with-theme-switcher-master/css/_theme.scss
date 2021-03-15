@@ -1,0 +1,101 @@
+.dark-theme {
+  .container {
+    background: $background-very-Dark-Blue;
+  }
+  .header {
+    background: $background-header;
+    .banner {
+      h1 {
+        color: $text-white;
+      }
+      h4 {
+        color: $text-desaturated-blue;
+      }
+      .button-theme {
+        p {
+          color: $text-desaturated-blue;
+        }
+      }
+    }
+  }
+  .title-secundary {
+    h1 {
+      color: $text-white;
+    }
+  }
+  .card-large,
+  .card-small {
+    background: $background-card;
+    h1 {
+      color: $text-white;
+    }
+  }
+  .card-large {
+    div {
+      span {
+        color: $text-desaturated-blue;
+      }
+    }
+    & > p {
+      color: $text-desaturated-blue;
+    }
+  }
+  .card-small {
+    div:nth-child(1) {
+      p {
+        color: $text-desaturated-blue;
+      }
+    }
+  }
+}
+
+.light-theme {
+  .container {
+    background: $background-white;
+  }
+  .header {
+    background: $background-header-light;
+    .banner {
+      h1 {
+        color: $text-very-dark-blue-light;
+      }
+      h4 {
+        color: $light-grayish-blue;
+      }
+      .button-theme {
+        p {
+          color: $light-grayish-blue;
+        }
+      }
+    }
+  }
+  .title-secundary {
+    h1 {
+      color: $text-very-dark-blue-light;
+    }
+  }
+  .card-large,
+  .card-small {
+    background: $background-card-light;
+    h1 {
+      color: $text-very-dark-blue-light;
+    }
+  }
+  .card-large {
+    div {
+      span {
+        color: $light-grayish-blue;
+      }
+    }
+    & > p {
+      color: $light-grayish-blue;
+    }
+  }
+  .card-small {
+    div:nth-child(1) {
+      p {
+        color: $light-grayish-blue;
+      }
+    }
+  }
+}
